@@ -1,0 +1,9 @@
+google-genai>=1.29.0
+modules>=1.0.0
+numpy>=2.3.2
+openpyxl>=3.1.5
+pandas>=2.3.1
+plotly>=6.2.0
+scikit-learn>=1.7.1
+streamlit>=1.48.0
+trafilatura>=2.0.0
